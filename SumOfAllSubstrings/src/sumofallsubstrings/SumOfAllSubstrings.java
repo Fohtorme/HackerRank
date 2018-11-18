@@ -59,8 +59,5 @@ public class SumOfAllSubstrings {
                            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 
                            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1};
         System.out.println("" + sumOfSubarrays(array));
-        
-        
     }
-    
 }
